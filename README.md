@@ -1,7 +1,7 @@
 # A Fast Transformation Algorithm for Deconvolution
 
 It provides detailed transformation parameters of the paper, which proposes a fast transformation
-algorithm (FTA) to accelerate deconvolution computation.
+algorithm (FTA) to accelerate deconvolution computation for deep nerual networks, eg. Generative Adversarial Network, Fully Convolutional Networks.
 
 Wendong Mao, Peixiang Yang and Zhongfeng Wang,  "FTA-GAN: A Computation-Efficient Accelerator for
 GANs With Fast Transformation Algorithm"  in IEEE Transactions on Neural Networks and Learning Systems: Regular Paper, 2021.
